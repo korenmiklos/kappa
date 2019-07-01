@@ -19,7 +19,7 @@ def run_setup():
         name='kappa',
         version=__version__,
         description='A CLI tool for AWS Lambda developers',
-        long_description=open_file('README.rst').read(),
+        long_description='',
         url='https://github.com/garnaat/kappa',
         author='Mitch Garnaat',
         author_email='mitch@garnaat.com',
